@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="lilithsvotes"
+version="1.0.0"
+displayName="Lilith’s Votes"
+credits="Created by Lilith_SaintVT and ChatGPT"
+authors="Lilith_SaintVT"
+description='''Votifier-compatible mod for rewarding votes.'''
